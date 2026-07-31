@@ -23,5 +23,9 @@ The models were evaluated focusing on Precision, Recall, F1-Score, and ROC AUC.
 *   The overall **F1-Score of 0.85** represents an excellent equilibrium between stopping financial losses and maintaining customer satisfaction.
 
 ## Acknowledgments
-The methodologies, technical approach, and custom evaluation functions used in this project were inspired by the knowledge acquired during the **Data Science Lab at WorldQuant University**.
+The methodologies, technical approach, and custom evaluation functions used in this project were inspired by the knowledge acquired during the **Data Science Lab at WorldQuant University**
+
+## Author
+*BSc Student in Economics of Banks, Insurance and Financial Intermediaries | Aspiring Data Scientist*
+Connect with me on [LinkedIn](www.linkedin.com/in/joaquin-heredia-jeri-1089b5334)
 > *"**Dataset:** The dataset used for this project is the [Credit Card Fraud Detection dataset from Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). Due to file size limits, it is not included in this repository. Please download it and place it in the `DataBase/` folder to run the notebook."*
