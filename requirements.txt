@@ -1,18 +1,5 @@
-import pandas as pd
-import numpy as np
-from sklearn.model_selection import GridSearchCV, train_test_split
-from sklearn.ensemble import GradientBoostingClassifier, RandomForestClassifier
-from sklearn.pipeline import Pipeline
-from sklearn.metrics import (
-    ConfusionMatrixDisplay,
-    classification_report,
-    confusion_matrix,
-    f1_score,
-    precision_score,
-    recall_score,
-    roc_auc_score,
-    precision_recall_curve
-)
-from imblearn.over_sampling import SMOTE
-from matplotlib import pyplot as plt 
-from imblearn.pipeline import Pipeline as ImbPipeline
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+matplotlib
