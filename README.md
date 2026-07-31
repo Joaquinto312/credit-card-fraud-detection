@@ -24,3 +24,4 @@ The models were evaluated focusing on Precision, Recall, F1-Score, and ROC AUC.
 
 ## Acknowledgments
 The methodologies, technical approach, and custom evaluation functions used in this project were inspired by the knowledge acquired during the **Data Science Lab at WorldQuant University**.
+> *"**Dataset:** The dataset used for this project is the [Credit Card Fraud Detection dataset from Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). Due to file size limits, it is not included in this repository. Please download it and place it in the `DataBase/` folder to run the notebook."*
